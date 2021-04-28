@@ -1,0 +1,6 @@
+#ifndef LED_ACTUATOR_H_INCLUDED
+#define LED_ACTUATOR_H_INCLUDED
+
+Led_Actuator();
+
+#endif // LED_ACTUATOR_H_INCLUDED
